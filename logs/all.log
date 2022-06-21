@@ -1,0 +1,72 @@
+2022-06-19 05:03:52:352 [31merror[39m: [31mUser is not defined[39m
+2022-06-19 05:03:52:352 [35mhttp[39m: [35mGET / 500 - 21.986 ms[39m
+[35m[39m
+2022-06-19 05:05:12:512 [31merror[39m: [31mUser is not defined[39m
+2022-06-19 05:05:12:512 [35mhttp[39m: [35mGET / 500 - 17.039 ms[39m
+[35m[39m
+2022-06-19 05:05:43:543 [31merror[39m: [31mUser is not defined[39m
+2022-06-19 05:05:43:543 [35mhttp[39m: [35mGET / 500 - 17.016 ms[39m
+[35m[39m
+2022-06-19 05:06:46:646 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2022-06-19 05:06:46:646 [35mhttp[39m: [35mGET / 500 - 289.921 ms[39m
+[35m[39m
+2022-06-19 05:07:20:720 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 05:07:20:720 [31merror[39m: [31mprods is not defined[39m
+2022-06-19 05:07:20:720 [35mhttp[39m: [35mGET / 500 - 291.479 ms[39m
+[35m[39m
+2022-06-19 05:07:40:740 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 05:07:40:740 [35mhttp[39m: [35mGET / 200 - 294.846 ms[39m
+[35m[39m
+2022-06-19 05:10:17:1017 [35mhttp[39m: [35mGET /user/register 404 - 2.437 ms[39m
+[35m[39m
+2022-06-19 05:11:22:1122 [35mhttp[39m: [35mGET /user/register 404 - 7.753 ms[39m
+[35m[39m
+2022-06-19 05:11:36:1136 [31merror[39m: [31mdata must be a string or Buffer and salt must either be a salt string or a number of rounds[39m
+2022-06-19 05:11:36:1136 [35mhttp[39m: [35mPOST /user/register 500 - 12.046 ms[39m
+[35m[39m
+2022-06-19 05:13:52:1352 [35mhttp[39m: [35mPOST /user/register 200 - 425.224 ms[39m
+[35m[39m
+2022-06-19 05:14:08:148 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 05:14:08:148 [35mhttp[39m: [35mGET / 200 - 255.415 ms[39m
+[35m[39m
+2022-06-19 05:14:22:1422 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 05:14:22:1422 [35mhttp[39m: [35mGET / 200 - 277.033 ms[39m
+[35m[39m
+2022-06-19 20:39:37:3937 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 20:39:37:3937 [35mhttp[39m: [35mGET / 200 - 285.265 ms[39m
+[35m[39m
+2022-06-19 20:40:36:4036 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 20:40:36:4036 [35mhttp[39m: [35mGET / 200 - 261.534 ms[39m
+[35m[39m
+2022-06-19 20:42:01:421 [35mhttp[39m: [35mPOST /user/register 200 - 384.966 ms[39m
+[35m[39m
+2022-06-19 20:42:08:428 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 20:42:08:428 [35mhttp[39m: [35mGET / 200 - 240.622 ms[39m
+[35m[39m
+2022-06-19 20:42:12:4212 [35mhttp[39m: [35mPOST /user/register 200 - 337.794 ms[39m
+[35m[39m
+2022-06-19 20:42:21:4221 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 20:42:21:4221 [35mhttp[39m: [35mGET / 200 - 240.998 ms[39m
+[35m[39m
+2022-06-19 20:44:00:440 [31merror[39m: [31mCannot destructure property 'userId' of 'req.user' as it is undefined.[39m
+2022-06-19 20:44:00:440 [35mhttp[39m: [35mPOST / 500 - 7.465 ms[39m
+[35m[39m
+2022-06-19 20:45:01:451 [31merror[39m: [31mProduct validation failed: password: must have password[39m
+2022-06-19 20:45:01:451 [35mhttp[39m: [35mPOST / 500 - 35.391 ms[39m
+[35m[39m
+2022-06-19 20:46:19:4619 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2022-06-19 20:46:19:4619 [35mhttp[39m: [35mPOST / 500 - 283.874 ms[39m
+[35m[39m
+2022-06-19 20:46:25:4625 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2022-06-19 20:46:25:4625 [35mhttp[39m: [35mPOST / 500 - 251.349 ms[39m
+[35m[39m
+2022-06-19 20:47:03:473 [35mhttp[39m: [35mPOST / 201 - 285.916 ms[39m
+[35m[39m
+2022-06-19 20:47:27:4727 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 20:47:27:4727 [35mhttp[39m: [35mGET / 200 - 268.877 ms[39m
+[35m[39m
+2022-06-19 20:47:35:4735 [35mhttp[39m: [35mPOST / 201 - 249.279 ms[39m
+[35m[39m
+2022-06-19 20:47:39:4739 [32minfo[39m: [32mProducts length undefined[39m
+2022-06-19 20:47:39:4739 [35mhttp[39m: [35mGET / 200 - 271.144 ms[39m
+[35m[39m

@@ -1,0 +1,10 @@
+2022-06-19 05:03:52:352 [31merror[39m: [31mUser is not defined[39m
+2022-06-19 05:05:12:512 [31merror[39m: [31mUser is not defined[39m
+2022-06-19 05:05:43:543 [31merror[39m: [31mUser is not defined[39m
+2022-06-19 05:06:46:646 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2022-06-19 05:07:20:720 [31merror[39m: [31mprods is not defined[39m
+2022-06-19 05:11:36:1136 [31merror[39m: [31mdata must be a string or Buffer and salt must either be a salt string or a number of rounds[39m
+2022-06-19 20:44:00:440 [31merror[39m: [31mCannot destructure property 'userId' of 'req.user' as it is undefined.[39m
+2022-06-19 20:45:01:451 [31merror[39m: [31mProduct validation failed: password: must have password[39m
+2022-06-19 20:46:19:4619 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
+2022-06-19 20:46:25:4625 [31merror[39m: [31mCannot read properties of undefined (reading '0')[39m
